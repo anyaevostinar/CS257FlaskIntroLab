@@ -1,3 +1,9 @@
+'''
+A starter file for testing a Flask app
+Run with:
+python -m unittest flask_tests.py
+'''
+
 from flask_lab_app import *
 import unittest
 
